@@ -1,0 +1,2 @@
+#!/bin/bash
+find ~/lists -empty | -al | cut -d '/' -f 1
